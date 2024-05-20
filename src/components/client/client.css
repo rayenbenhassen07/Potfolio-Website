@@ -1,0 +1,95 @@
+#clients{
+    overflow: hidden;
+    width: 100vw;
+    max-width: 65rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    background-color: rgb(20,20,20);
+    border-radius: 1rem;
+    z-index: 2;
+    margin-top:3rem;
+    padding-bottom: 1rem;
+}
+
+.clientsSlog{
+    margin-top:1rem;
+    font-size: 1.5rem;
+    font-weight: 200;
+    text-align: start;
+}
+
+.clientsTitle{
+    font-size: 3rem;
+    font-weight: 600;
+    text-align: start;
+}
+
+.clientBoxs{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    text-align: start;
+    
+}
+
+.clientBox{
+    background-color: rgb(0, 0, 0);
+    margin: 1rem;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+.clientBoxPn{
+    font-size: 2.5rem;
+}
+
+.clientBoxTitle{
+    font-size: 1rem;
+    padding-bottom: 1rem;
+}
+
+.clientBoxInfo{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.clientBoxInfo img{
+    width: 3rem;
+    object-fit: contain;
+    border-radius: 20rem;
+    
+}
+
+.clientBoxInfoTitle{
+    font-size: 0.9rem;
+}
+
+.clientBoxInfoTitle span{
+    color: rgb(51, 105, 153);
+}
+
+.clientBoxInfoSlog{
+    font-size: 0.7rem;
+}
+
+.clientBoxInfoTT{
+    display: flex;
+    flex-direction: column;
+}
+
+/*==== tablet ====*/
+@media screen and (max-width:740px){
+
+    .clientBoxs{
+        flex-direction: column;
+        
+    }
+
+
+
+}

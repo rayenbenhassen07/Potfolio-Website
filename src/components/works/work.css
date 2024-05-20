@@ -1,0 +1,131 @@
+#works{
+    overflow: hidden;
+    width: 100vw;
+    max-width: 65rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    z-index: 2;
+}
+
+.worksSlog{
+    padding-top:3rem;
+}
+
+.worksTitle{
+    font-size: 3rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    text-align: left;
+}
+
+.worksDesc{
+    text-align: start;
+}
+
+.worksAll{
+    width:80vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.workBox img{
+    object-fit: cover;
+    width: 90%;
+    height: 15rem;
+    margin-top: 1rem;
+    border-radius: 0.5rem;
+}
+
+.workBox{
+    width: 20rem;
+    background-color: rgb(40,40,40);
+    margin: 2rem 1rem;
+    border-radius: 0.5rem;
+}
+
+.workBoxTitle{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-left: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.workBoxDesc{
+    font-size: 0.75rem;
+    font-weight: 300;
+    text-align: start;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.workBoxHachtag{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    font-size: 0.8rem;
+    font-weight: 500;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.workBoxHachtag1{
+    padding-right: 0.5rem;
+    color: rgba(73, 99, 193, 0.559);
+
+}
+
+.workBoxHachtag2{
+    padding-right: 0.5rem;
+    color: rgba(21, 148, 63, 0.529);
+    
+}
+
+.workBoxHachtag3{
+    padding-right: 0.5rem;
+    color: rgba(188, 63, 49, 0.603);
+    
+}
+
+.workBoxHachtag4{
+    padding-right: 0.5rem;
+    color: rgba(188, 49, 183, 0.603);
+    
+}
+
+.workBoxHachtag5{
+    padding-right: 0.5rem;
+    color: rgba(172, 188, 49, 0.603);
+    
+}
+
+.workBoxTitle a{
+    color: aqua;
+    text-decoration: none;
+}
+
+/*==== tablet ====*/
+@media screen and (max-width:740px){
+    .worksAll{
+        flex-direction: column;
+    }
+
+
+    .worksDesc{
+        font-size: 0.7rem;
+        width: 90%;
+    }
+
+    
+
+}
