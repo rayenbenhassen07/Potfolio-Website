@@ -22,12 +22,12 @@ Welcome to my portfolio website! This project showcases my skills and work, buil
 - **Contact Me:** Simple form to contact me.
 
 ## Screenshots
+![Home](https://github.com/rayenbenhassen07/Potfolio-Website/assets/133701994/baea6c72-7531-4824-a270-0505d17e4e6e)
+![About](https://github.com/rayenbenhassen07/Potfolio-Website/assets/133701994/bb3f2c0c-fd47-42f0-9e71-5500b21d942b)
+![Works](https://github.com/rayenbenhassen07/Potfolio-Website/assets/133701994/03e0e59a-3596-463b-908c-8ba5b2059a10)
+![Clients](https://github.com/rayenbenhassen07/Potfolio-Website/assets/133701994/c0624f70-3e99-4ce2-98db-96155b07252b)
+![Contact](https://github.com/rayenbenhassen07/Potfolio-Website/assets/133701994/b2554bd4-868c-4ed5-8854-98034d864ff2)
 
-![Home](https://github.com/rayenbenhassen07/Porfolio-website---React-App/assets/133701994/54bbc88e-1c72-4753-ab23-2d82e053ed72)
-![About](https://github.com/rayenbenhassen07/Porfolio-website---React-App/assets/133701994/a910f96a-0940-4d4b-872c-e691032148f3)
-![Works](https://github.com/rayenbenhassen07/Porfolio-website---React-App/assets/133701994/73b79df3-4af3-44cc-8f1b-4ccf44d5a1f6)
-![Clients](https://github.com/rayenbenhassen07/Porfolio-website---React-App/assets/133701994/cac2b4fc-c3cb-4ed4-82f2-4151b1a6dc51)
-![Contact](https://github.com/rayenbenhassen07/Porfolio-website---React-App/assets/133701994/a3309221-2509-4aa3-bc5f-7fdf2dbc76f9)
 
 
 ## Technologies
